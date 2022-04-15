@@ -8,5 +8,5 @@ app.get('/hello', (req, res) => {
   res.send('Hello');
 });
 
-app.listen(3000);
-console.log('App is started at 3000');
+app.listen(3002);
+console.log('App is started at 3002');
